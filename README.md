@@ -9,7 +9,7 @@ The team is the main group of people with which you work. Make sure that this is
 
 ## Psychological Safety, Trust
 **What is this?**
-Can we take risks on this team without feeling insecure or embarrassed? Is it safe to share ideas and solutions? Can you have healthy discussions, where any conflicts are resolved with no hard feelings? Can you allow yourself to feel vulnerable? Is there a fear of conflict, or artificial harmony?
+Can we take risks on this team without feeling insecure or embarrassed? Is it safe to share ideas and solutions? Can you have healthy discussions, where any conflicts are resolved with no hard feelings? Can you allow yourself to feel vulnerable in front of the team? Is there a fear of conflict, or artificial harmony?
 
 **Questions**
 1. Do you feel it’s safe to share your ideas in team meetings? 1 (no) - 5 (yes, it’s safe)
