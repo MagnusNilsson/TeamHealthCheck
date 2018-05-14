@@ -1,5 +1,7 @@
 # Team Health Check #
-This is an attempt to check up on how a team is doing, based on https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/. The ambition is to create a questionnaire that can be used to figure out how a team is doing, and in which areas it may need some support and coaching. Future improvements include better instructions, and ideally a collection of exercises that could be used to strengthen the different areas of the team: Psychological Safety, Dependability, Structure and clarity, and Meaning and Impact.
+This is an attempt to check up on how a team is doing, based on https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/. 
+
+The ambition is to create a questionnaire that can be used to figure out how a team is doing, and in which areas it may need some support and coaching. Future improvements include better instructions, and ideally a collection of exercises that could be used to strengthen the different areas of the team: Psychological Safety, Dependability, Structure and clarity, and Meaning and Impact.
 
 ## Approach
 TODO: Detailed approach: Team introduction, Personal interviews, Present the results, Team coaching.
@@ -12,6 +14,7 @@ The team is the main group of people with which you work. Make sure that this is
 
 ## Psychological Safety, Trust
 **What is this?**
+
 Can we take risks on this team without feeling insecure or embarrassed? Is it safe to share ideas and solutions? Can you have healthy discussions, where any conflicts are resolved with no hard feelings? Can you allow yourself to feel vulnerable in front of the team? Is there a fear of conflict, or artificial harmony?
 
 **Questions**
@@ -22,6 +25,7 @@ Can we take risks on this team without feeling insecure or embarrassed? Is it sa
 
 ## Dependability
 **What is this?**
+
 Can we count on each other to do high quality work on time?
 Is it OK to hold other team members accountable? Can you depend on your skills, and the skills of the team? Do you feel like the team has what you need in order to do your job the way you want to? Do you have the mandate to change the process? Do you have support from stakeholders and managers? Do you and the team adhere to high standards? Is the team committed?
 
@@ -33,6 +37,7 @@ Is it OK to hold other team members accountable? Can you depend on your skills, 
 
 ## Structure and clarity
 **What is this?**
+
 Are goals, roles, and execution plans on the team clear?
 Do you know what the priorities are? What the vision is? Are you measuring the right things? Is there a prioritised “backlog" of items to accomplish? Is it clear who can prioritise this backlog? Are roles, responsibilities and deadlines clear? Are the results known and shared?
 
@@ -44,6 +49,7 @@ Do you know what the priorities are? What the vision is? Are you measuring the r
 
 ## Meaning & Impact
 **What is this?**
+
 _Meaning:_ Are we working on something that is personally important for each of us?
 Does it have personal meaning? Professional meaning? Do we have a defined team purpose?
 
