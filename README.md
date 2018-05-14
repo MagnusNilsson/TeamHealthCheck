@@ -1,9 +1,12 @@
-An attempt to review a team, based on https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/. Meaning and impact have been merged to a single area, leaving four areas with four questions each.
+# Team Health Check #
+This is an attempt to check up on how a team is doing, based on https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/. The ambition is to create a questionnaire that can be used to figure out how a team is doing, and in which areas it may need some support and coaching. Future improvements include better instructions, and ideally a collection of exercises that could be used to strengthen the different areas of the team: Psychological Safety, Dependability, Structure and clarity, and Meaning and Impact.
 
 ## Approach
-Personal interview with each team member. Quantify each question 1-5, and calculate the team average for each area.
+TODO: Detailed approach: Team introduction, Personal interviews, Present the results, Team coaching.
 
-Both the quantitative and the qualitative results are of interest - the numbers to compare with previous measurements, and the sentiments on what could be improved, and how.
+Do a personal interview with each team member. Quantify each question 1-5, and calculate the team average for each area, but also note down any answers that may give you clues to the root causes. If you think the team needs it, ask if the answers should be anonymised.
+
+Both the quantitative and the qualitative results are of interest - the numbers to compare with other measurements of the same team, and the sentiments on what could be improved, and how.
 
 The team is the main group of people with which you work. Make sure that this is properly defined for each health check.
 
@@ -15,7 +18,7 @@ Can we take risks on this team without feeling insecure or embarrassed? Is it sa
 1. Do you feel it’s safe to share your ideas in team meetings? 1 (no) - 5 (yes, it’s safe)
 2. Do you feel like your contribution is valued equally to other team members? 1 - 5
 3. Do you feel like you can show vulnerability in front of the team, e.g. show that you don’t know something, or that you changed your mind after reading up on a subject? 1-5 
-4. Do you think that the team is capable of settling differing opinions in a healthy way, without lingering bad feelings? 1 (no) - 5 (capable)
+4. Do you think that the team is capable of raising and settling differing opinions in a healthy way, without lingering bad feelings? 1 (no) - 5 (capable)
 
 ## Dependability
 **What is this?**
@@ -53,4 +56,15 @@ Does your work impact the project? Does the team’s work have an impact on the 
 3. Do you feel like your work is impacting the team positively? 1 - 5
 4. Do you feel like the team's work is impacting the organisation positively? 1 - 5
 
+## FAQ
+<details><summary><i>What do you count as a team?</i></summary>
+<p>
+  Good question! Blah, blah.
+</p>
+</details>
 
+<details><summary><i>Does this only work with software development teams?</i></summary>
+<p>
+  I've tried to make the questions broad enough to work with any team, but you may have to adapt them a bit depending on what the team in question uses e.g. to keep track of the work that they need to do.
+</p>
+</details>
