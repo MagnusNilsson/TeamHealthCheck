@@ -32,8 +32,8 @@ Is it OK to hold other team members accountable? Can you depend on your skills, 
 **Questions**
 1. Do you feel like the team has the skills, tools and resources required to do your job? 1 - 5
 2. Do you trust your team members to reliably complete quality work on time? 1 - 5
-3. Do you feel like you can hold team members accountable if they don’t do their job properly? 1 - 5
-4. Do you feel like you have the necessary support from any stakeholders or outside actors you depend on? 1 - 5
+3. Do you feel like the team can hold team members accountable if they don’t do their job properly? 1 - 5
+4. Do you feel like the team has the necessary support from any stakeholders or outside actors you depend on? 1 - 5
 
 ## Structure and clarity
 **What is this?**
@@ -42,8 +42,8 @@ Are goals, roles, and execution plans on the team clear?
 Do you know what the priorities are? What the vision is? Are you measuring the right things? Is there a prioritised “backlog" of items to accomplish? Is it clear who can prioritise this backlog? Are roles, responsibilities and deadlines clear? Are the results known and shared?
 
 **Questions**
-1. Do you feel like the team have clear, measurable goals, and do you know what they are? 1 - 5
-2. Do you feel like the rules and responsibilities in the team are clearly defined? 1 - 5
+1. Do you feel like the team has clear, measurable goals, and do you know what they are? 1 - 5
+2. Do you feel like the roles and responsibilities in the team are clearly defined? 1 - 5
 3. Do you feel like you have a good understanding of the team’s / project’s vision and roadmap? 1 - 5
 4. Is there a prioritised “backlog” or checklist of items to accomplish? 1 - 5
 
@@ -58,9 +58,9 @@ Does your work impact the project? Does the team’s work have an impact on the 
 
 **Questions**
 1. Do you feel like working on this team can help you reach your professional or private goals? 1 - 5
-2. Do you feel like this team has set up goals that are useful for your organisation? 1 - 5
+2. Do you feel like this team has set up goals that are useful for your organisation / client / end-users? 1 - 5
 3. Do you feel like your work is impacting the team positively? 1 - 5
-4. Do you feel like the team's work is impacting the organisation positively? 1 - 5
+4. Do you feel like the team's work is impacting the organisation / client / end-users positively? 1 - 5
 
 ## FAQ
 <details><summary><i>What do you count as a team?</i></summary>
