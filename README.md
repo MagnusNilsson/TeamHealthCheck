@@ -18,8 +18,8 @@ The team is the main group of people with which you work. Make sure that this is
 Can we take risks on this team without feeling insecure or embarrassed? Is it safe to share ideas and solutions? Can you have healthy discussions, where any conflicts are resolved with no hard feelings? Can you allow yourself to feel vulnerable in front of the team? Is there a fear of conflict, or artificial harmony?
 
 **Questions**
-1. Do you feel it’s safe to share your ideas in team meetings? 1 (no) - 5 (yes, it’s safe)
-2. Do you feel like your contribution is valued equally to other team members? 1 - 5
+1. Do you feel it’s safe to share your ideas in team meetings, without getting judged or interrupted? 1 (no) - 5 (yes, it’s safe)
+2. Do you feel like your contribution is valued by the other team members? 1 - 5
 3. Do you feel like you can show vulnerability in front of the team, e.g. show that you don’t know something, or that you changed your mind after reading up on a subject? 1-5 
 4. Do you think that the team is capable of raising and settling differing opinions in a healthy way, without lingering bad feelings? 1 (no) - 5 (capable)
 
@@ -30,7 +30,7 @@ Can we count on each other to do high quality work on time?
 Is it OK to hold other team members accountable? Can you depend on your skills, and the skills of the team? Do you feel like the team has what you need in order to do your job the way you want to? Do you have the mandate to change the process? Do you have support from stakeholders and managers? Do you and the team adhere to high standards? Is the team committed?
 
 **Questions**
-1. Do you feel like the team has the skills, tools and resources required to do your job? 1 - 5
+1. Do you feel like the team has the skills, tools and resources (time, budget, staffing) required to do your job? 1 - 5
 2. Do you trust your team members to reliably complete quality work on time? 1 - 5
 3. Do you feel like the team can hold team members accountable if they don’t do their job properly? 1 - 5
 4. Do you feel like the team has the necessary support from any stakeholders or outside actors you depend on? 1 - 5
