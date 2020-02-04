@@ -37,7 +37,7 @@ Is it OK to hold other team members accountable? Can you depend on your skills, 
 
 2.1 Do you feel like the team has the skills, tools and resources (time, budget, staffing) required to do your job? 1 - 5
 
-2.2 Do you feel like the team can commit to finish a certain amount of work for a certain deadline? 1 - 5
+2.2 Do you feel like the team can successfully commit to finish a certain amount of work for a certain deadline? 1 - 5
 
 2.3 Do you feel like the team can hold team members accountable if they don’t do their job properly? 1 - 5
 
