@@ -37,7 +37,7 @@ Is it OK to hold other team members accountable? Can you depend on your skills, 
 
 2.1 Do you feel like the team has the skills, tools and resources (time, budget, staffing) required to do your job? 1 - 5
 
-2.2 Do you trust your team members to reliably complete quality work on time? 1 - 5
+2.2 Do you feel like the team can commit to finish a certain amount of work for a certain deadline? 1 - 5
 
 2.3 Do you feel like the team can hold team members accountable if they don’t do their job properly? 1 - 5
 
@@ -51,11 +51,11 @@ Do you know what the priorities are? What the vision is? Are you measuring the r
 
 **Questions**
 
-3.1 Do you feel like the team has clear, measurable goals, and do you know what they are? 1 - 5
+3.1 Do you feel like you have a good understanding of the team’s / project’s vision and roadmap? 1 - 5
 
-3.2 Do you feel like the roles and responsibilities in the team are clearly defined? 1 - 5
+3.2 Do you feel like the team has clear, measurable KPIs or goals, and do you know what they are? 1 - 5
 
-3.3 Do you feel like you have a good understanding of the team’s / project’s vision and roadmap? 1 - 5
+3.3 Do you feel like the roles and responsibilities in the team are clear enough to you? 1 - 5
 
 3.4 Is there a prioritised “backlog” or checklist of items to accomplish? 1 - 5
 
@@ -81,7 +81,7 @@ Does your work impact the project? Does the team’s work have an impact on the 
 ## FAQ
 <details><summary><i>What do you count as a team?</i></summary>
 <p>
-  Good question! Blah, blah.
+  Any group of people, ideally smaller than 10 people, working toward the same goals. 
 </p>
 </details>
 
