@@ -19,11 +19,11 @@ Can we take risks on this team without feeling insecure or embarrassed? Is it sa
 
 **Questions**
 
-1.1 Do you feel it’s safe to share your ideas in team meetings, without getting judged or interrupted? 1 (no) - 5 (yes, it’s safe)
+1.1 Do you feel it’s safe for everybody to share their ideas in team meetings, without getting judged or interrupted? 1 (no) - 5 (yes, it’s safe)
 
-1.2 Do you feel like your contribution is valued by the other team members? 1 - 5
+1.2 Do you feel like everybody's contribution is valued by the other team members? 1 - 5
 
-1.3 Do you feel like you can show vulnerability in front of the team, e.g. show that you don’t know something, or that you changed your mind after reading up on a subject? 1-5 
+1.3 Do you feel like the team can show vulnerability in front of each other, e.g. show that they don’t know something, or that they have changed your mind after reading up on a subject? 1-5 
 
 1.4 Do you think that the team is capable of raising and settling differing opinions in a healthy way, without lingering bad feelings? 1 (no) - 5 (capable)
 
